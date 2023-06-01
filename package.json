@@ -1,0 +1,26 @@
+{
+  "name": "opera-wiki",
+  "version": "1.0.0",
+  "description": "Opera Open Source Wiki to share documentation with the community",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opera-online/opera-wiki.git"
+  },
+  "author": "Brian Felix <hello@brian-felix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opera-online/opera-wiki/issues"
+  },
+  "homepage": "https://github.com/opera-online/opera-wiki#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "nextra": "^2.2.14",
+    "nextra-theme-docs": "^2.2.14",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
